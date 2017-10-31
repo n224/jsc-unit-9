@@ -1,0 +1,48 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.title {
+	padding-top: 0.5px;
+	color: gray;
+	text-align: center;
+
+}
+
+.image {
+	text-align: center;
+}
+
+.reservations {
+	text-align: center;
+}
+
+.table {
+	border: 1px;
+}
+
+
+
+/*.bodyreservations1 {
+	text-align: center;
+	border: 2px solid #bdc3c7;
+	padding: 5px;
+	width: 400px;
+	max-width: 400px;
+	width: 80%;
+/*	margin: 20px auto;*/
+
+}
+
+/*.bodyreservations2 {
+
+	
+}
+
+.form {
+	margin-top: 20px;
+}*/*/
